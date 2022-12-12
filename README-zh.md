@@ -5,7 +5,6 @@
 
 ## [photoshot](https://github.com/shinework/photoshot)
 
-An open-source AI avatar generator web app. Try it out at photoshot.app.
 一个开源的AI头像生成器web应用程序。访问 [photoshot.app](https://photoshot.app/) 在线体验
 
 注: 在线版本收费，可以自行部署。
@@ -13,7 +12,7 @@ An open-source AI avatar generator web app. Try it out at photoshot.app.
 
 ## [chat-gpt-zhihu-extension](https://github.com/no13bus/chat-gpt-zhihu-extension)
 
-一个知乎的 ChatGPT 浏览器小插件，可作为你回复问题的参考，也可以复制 ChatGPT 的结果到回答的编辑器中进行相应的修改。
+一个知乎的 ChatGPT 浏览器扩展，可作为你回复问题的参考，也可以复制 ChatGPT 的结果到回答的编辑器中进行相应的修改。
 
 注: 插件使用的前提是你需要有一个自己的 ChatGPT 账号, 注册地址 https://chat.openai.com
 
@@ -44,6 +43,7 @@ https://www.appinn.com/a-chatgpt-chrome-extension/
 
 这是一个快速上手 ChatGPT 模型的示例集合。
 
+
 ## [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
 
 在微信上迅速接入 ChatGPT，让它成为你最好的助手！
@@ -62,3 +62,10 @@ https://www.appinn.com/a-chatgpt-chrome-extension/
 ## [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 
 这是一个简单(mac)应用程序，将 ChatGPT 集成到你的菜单栏。
+
+
+## [chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin)
+
+A VS code plugin for ChatGPT built by ChatGPT.
+
+一个由 ChatGPT 构建的 ChatGPT VSCode 扩展。

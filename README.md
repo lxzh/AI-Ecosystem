@@ -60,3 +60,8 @@ A WeChat robot 🤖 based on ChatGPT.
 ## [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 
 This is a simple app that makes ChatGPT live in your menubar(MacOS).
+
+
+## [chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin)
+
+A VS code plugin for ChatGPT built by ChatGPT.
