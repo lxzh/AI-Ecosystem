@@ -82,6 +82,11 @@ Let ChatGPT review GitHub PRs for you.
 ChatGPT_PyBot is a command-line robot developed in Python.
 
 
+## [stackexplain](https://github.com/shobrook/stackexplain)
+
+Explain your error message with ChatGPT.
+
+
 ## [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 
 This is a simple app that makes ChatGPT live in your menubar(MacOS).

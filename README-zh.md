@@ -84,6 +84,11 @@ https://www.appinn.com/a-chatgpt-chrome-extension/
 这是一个用 Python 写的 ChatGPT 命令行机器人。
 
 
+## [stackexplain](https://github.com/shobrook/stackexplain)
+
+让 ChatGPT 来帮你解释（Python）错误信息。
+
+
 ## [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 
 这是一个简单(mac)应用程序，将 ChatGPT 集成到你的菜单栏。
