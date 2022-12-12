@@ -57,6 +57,11 @@ A WeChat robot 🤖 based on ChatGPT.
 OpenAI ChatGPT for Mirai QQ Bot，QQ chat robot.
 
 
+## [ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot)
+
+A AI chat Telegram Bot with ChatGPT in fly.io.
+
+
 ## [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)
 
 ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
