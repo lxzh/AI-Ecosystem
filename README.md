@@ -62,6 +62,11 @@ OpenAI ChatGPT for Mirai QQ Bot，QQ chat robot.
 A AI chat Telegram Bot with ChatGPT in fly.io.
 
 
+## [chatgpt-action](https://github.com/kxxt/chatgpt-action)
+
+Let ChatGPT review GitHub PRs for you.
+
+
 ## [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)
 
 ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
