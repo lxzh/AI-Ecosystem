@@ -69,6 +69,11 @@ https://www.appinn.com/a-chatgpt-chrome-extension/
 让 ChatGPT 帮你审核 GitHub 合并请求。
 
 
+## [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot)
+
+一个基于 ChatGPT 的 GitHub 机器人。
+
+
 ## [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)
 
 ⚡️非官方 ChatGPT API 的 Python 客户端，具有自动令牌再生，会话跟踪，代理支持等特性。

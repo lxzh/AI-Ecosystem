@@ -67,6 +67,11 @@ A AI chat Telegram Bot with ChatGPT in fly.io.
 Let ChatGPT review GitHub PRs for you.
 
 
+## [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot)
+
+🤖️ A GPTChat based GitHub robot. dialogue/CR/etc..
+
+
 ## [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)
 
 ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
