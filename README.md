@@ -62,6 +62,11 @@ OpenAI ChatGPT for Mirai QQ Bot，QQ chat robot.
 ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 
 
+## [ChatGPT_PyBot](https://github.com/liuhuanshuo/ChatGPT_PyBot)
+
+ChatGPT_PyBot is a command-line robot developed in Python.
+
+
 ## [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 
 This is a simple app that makes ChatGPT live in your menubar(MacOS).
