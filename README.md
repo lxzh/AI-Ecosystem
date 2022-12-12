@@ -52,6 +52,11 @@ Use ChatGPT On Wechat via wechaty.
 A WeChat robot 🤖 based on ChatGPT.
 
 
+## [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)
+
+OpenAI ChatGPT for Mirai QQ Bot，QQ chat robot.
+
+
 ## [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)
 
 ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.

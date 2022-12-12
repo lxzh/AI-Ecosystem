@@ -54,6 +54,11 @@ https://www.appinn.com/a-chatgpt-chrome-extension/
 一个基于 ChatGPT 的微信机器人。
 
 
+## [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)
+
+一款使用 OpenAI 的 ChatGPT 进行聊天的 QQ 机器人！
+
+
 ## [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)
 
 ⚡️非官方 ChatGPT API 的 Python 客户端，具有自动令牌再生，会话跟踪，代理支持等特性。
