@@ -57,3 +57,8 @@ https://www.appinn.com/a-chatgpt-chrome-extension/
 ## [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)
 
 ⚡️非官方 ChatGPT API 的 Python 客户端，具有自动令牌再生，会话跟踪，代理支持等特性。
+
+
+## [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
+
+这是一个简单(mac)应用程序，将 ChatGPT 集成到你的菜单栏。

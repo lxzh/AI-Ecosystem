@@ -55,3 +55,8 @@ A WeChat robot 🤖 based on ChatGPT.
 ## [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)
 
 ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
+
+
+## [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
+
+This is a simple app that makes ChatGPT live in your menubar(MacOS).
