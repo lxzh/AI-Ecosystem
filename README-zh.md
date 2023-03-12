@@ -5,12 +5,6 @@
 
 ## ChatGPT
 
-Name|Urls|About|Description|stars|forks
----|---|---|---|---|---
-
-名称|链接|关于|描述|stars|forks
----|---|---|---|---|---
-
 ### 资源
 
 名称|链接|关于|描述|stars|forks

@@ -1,6 +1,12 @@
-# Funny-ChatGPT
+# AI-Ecosystem
 
-This is an interesting ChatGPT collection, a collection of interesting ChatGPT extensions.
+这是一个 AI 生态集合，收集整理了各种有趣有用的 AI 相关项目，前期以 ChatGPT 为主，后续会逐渐收集一些其他 AI 项目。
+
+
+## ChatGPT
+
+Name|Urls|About|Description|stars|forks
+---|---|---|---|---|---
 
 
 ## [photoshot](https://github.com/shinework/photoshot)
