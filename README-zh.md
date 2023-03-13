@@ -32,7 +32,7 @@
 [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)|[Install](https://chatgpt4google.com/)|A browser extension that enhance search engines with ChatGPT|一个浏览器扩展用于在搜索引擎结果旁边显示 ChatGPT 结果。|![](https://img.shields.io/github/stars/wong2/chat-gpt-google-extension.svg)| ![](https://img.shields.io/github/forks/wong2/chat-gpt-google-extension.svg)
 [chathub](https://github.com/chathub-dev/chathub)|[Install](https://chathub.gg/)|All-in-one chatbot client|ChatHub is an all-in-one chatbot client|![](https://img.shields.io/github/stars/chathub-dev/chathub.svg)|![](https://img.shields.io/github/forks/chathub-dev/chathub.svg)
 [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)||A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.|一个 Chrome 扩展，将 ChatGPT 添加到互联网上的每个文本框!用它来写推特，修改电子邮件，修复代码错误，或其他任何你需要的东西，所有这些都不需要离开你所在的网站。包含一个插件系统，可以更好地控制 ChatGPT 行为和与第三方 api 交互的能力。|![](https://img.shields.io/github/stars/gragland/chatgpt-chrome-extension.svg)|![](https://img.shields.io/github/forks/gragland/chatgpt-chrome-extension.svg)
-[Tactiq]|[Site](tactiq.io)<p>[Install](https://chrome.google.com/webstore/detail/tactiq-chatgpt-meeting-su/fggkaccpbmombhnjkjokndojfgagejfb?hl=zh-CN)|ChatGPT meeting summary|它可以自动记录主流视频软件的会议，比如zoom，然后在会议结束后自动生成会议总结和参会人员的报告。准确度很惊艳，对于信息量大的会议，省去了很多笔记。 ​​​|||
+Tactiq|[Site](tactiq.io)<p>[Install](https://chrome.google.com/webstore/detail/tactiq-chatgpt-meeting-su/fggkaccpbmombhnjkjokndojfgagejfb?hl=zh-CN)|ChatGPT meeting summary|它可以自动记录主流视频软件的会议，比如zoom，然后在会议结束后自动生成会议总结和参会人员的报告。准确度很惊艳，对于信息量大的会议，省去了很多笔记。 ​​​|||
 [chat-gpt-zhihu-extension](https://github.com/no13bus/chat-gpt-zhihu-extension)|[Install](https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak)|ChatGPT的知乎回答小帮手，利用AI来协助你回答知乎问题|一个知乎的 chatgpt 浏览器小插件，可作为你回复问题的参考，也可以复制 chatgpt 的结果到回答的编辑器中进行相应的修改。<p>[使用指导](https://www.appinn.com/a-chatgpt-chrome-extension/)|![](https://img.shields.io/github/stars/no13bus/chat-gpt-zhihu-extension.svg)|![](https://img.shields.io/github/forks/no13bus/chat-gpt-zhihu-extension.svg)
 [chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin)||A VS code plugin for ChatGPT built by ChatGPT|一个由 ChatGPT 构建的 ChatGPT VSCode 扩展。|![](https://img.shields.io/github/stars/barnesoir/chatgpt-vscode-plugin.svg)|![](https://img.shields.io/github/forks/barnesoir/chatgpt-vscode-plugin.svg)
 [rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode)|[Install](https://marketplace.visualstudio.com/items?itemName=Rubberduck.rubberduck-vscode)|Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.|基于 OpenAI API 提供代码编辑、代码解释、代码生成、错误诊断和聊天服务的 VSCode 插件|![](https://img.shields.io/github/stars/rubberduck-ai/rubberduck-vscode.svg)|![](https://img.shields.io/github/forks/rubberduck-ai/rubberduck-vscode.svg)
@@ -119,11 +119,16 @@ phind|[Site](https://www.phind.com/)|The AI search engine for developers.|面向
 
 
 ### 一些文章
-[ChatGPT的工作原理，这篇文章说清楚了](https://mp.weixin.qq.com/s/aJ18t1NkFL-ZLCccB6WxHQ)
-[ChatGPT赚钱套路汇总](https://twitter-thread.com/t/1627913592300359680)
-[我提前获得了ChatGPT的API，然后把它推向了极限。以下是你需要了解的情况。](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)  
-[使用 Cloudflare Workers 解决 OpenAI 和 ChatGPT 的 API 无法访问的问题](https://github.com/noobnooc/noobnooc/discussions/9)
-[Storing OpenAI embeddings in Postgres with pgvector](https://supabase.com/blog/openai-embeddings-postgres-vector)
+
+- [ChatGPT的工作原理，这篇文章说清楚了](https://mp.weixin.qq.com/s/aJ18t1NkFL-ZLCccB6WxHQ)
+
+- [ChatGPT赚钱套路汇总](https://twitter-thread.com/t/1627913592300359680)
+
+- [我提前获得了ChatGPT的API，然后把它推向了极限。以下是你需要了解的情况。](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)  
+
+- [使用 Cloudflare Workers 解决 OpenAI 和 ChatGPT 的 API 无法访问的问题](https://github.com/noobnooc/noobnooc/discussions/9)
+
+- [Storing OpenAI embeddings in Postgres with pgvector](https://supabase.com/blog/openai-embeddings-postgres-vector)
 
 ### 一些使用技巧
 
@@ -170,7 +175,7 @@ https://mp.weixin.qq.com/s/hU4qk9kHmPn9xVGhFI5Hbg
 [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)||Stable Diffusion web UI|A browser interface based on Gradio library for Stable Diffusion|![](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui.svg)|![](https://img.shields.io/github/forks/AUTOMATIC1111/stable-diffusion-webui.svg)
 [stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab)||stable diffusion webui colab|如果你想试试用stable diffusion画图，然后又不会在电脑上搭环境，或者显卡不行，并且会翻墙，那么用Google Colab是最佳选择。点几下链接就搞定了！使用步骤: <p> 1. 注册登录好google colab账号<p> 2. 从列表里面选好你要运行的模型，比如最近很火的midjourney，midjourney_v4_diffusion_webui_colab（如果你想画漂亮小姐姐就选chillout_mix_webui_colab）。 <p> 3. 每个模型都有v1.9和v2.0两个版本，优先选择v2.0，因为已经包含了ControlNet <p> 4. 点击链接后会跳转到google colab，然后点击左上角三角播放按钮等搭建好环境 <p> 5. 等脚本运行，运行好了你可以看到有几个网址，点击就可以打开UI做图了。 <p> 实际测下来比我的MBPR M1要快！另外midjourney那个山寨模型效果真不咋地！ <p> 完整教程参考ShīnChvën写的《如何在 Google Colab 上部署 Stable Diffusion Web UI Colab》|![](https://img.shields.io/github/stars/camenduru/stable-diffusion-webui-colab.svg)|![](https://img.shields.io/github/forks/camenduru/stable-diffusion-webui-colab.svg)
 [visual-chatgpt](https://github.com/microsoft/visual-chatgpt)|[Paper](https://arxiv.org/abs/2303.04671)|Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models|微软的visual-chatgpt，可以在聊天过程中发送和接收图像。它利用ChatGPT进行对话，然后将对话指令翻译成Stable Diffusion的prompt，最后利用Stable Diffusion和ControlNet生成用户想要的图片，简直太酷了！ |​​​![](https://img.shields.io/github/stars/microsoft/visual-chatgpt.svg)|![](https://img.shields.io/github/forks/microsoft/visual-chatgpt.svg)
-[web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)|[Site](https://mlc.ai/web-stable-diffusion)|Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.|完全在浏览器里运行的 Stable Diffusion，无需服务器即可运行|​​​![](https://img.shields.io/github/stars/mlc-ai/web-stable-diffusion.svg)|![](https://img.shields.io/github/forks/mlc-ai/web-stable-diffusion.svg)
+[web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)|[Site](https://mlc.ai/web-stable-diffusion)|完全在浏览器里运行的 Stable Diffusion，无需服务器即可运行||​​​![](https://img.shields.io/github/stars/mlc-ai/web-stable-diffusion.svg)|![](https://img.shields.io/github/forks/mlc-ai/web-stable-diffusion.svg)
 [打造你的赛博 Coser-StableDiffusion模型及 LoRA 插件保姆级教程](https://op7418.zhubai.love/posts/2238998671356555264)|||||
 
 ### Apps
