@@ -41,7 +41,7 @@ CodeGPT|[Install](https://marketplace.visualstudio.com/items?itemName=DanielSanM
 Siri Pro|[Install](https://www.icloud.com/shortcuts/e3b3a71269364bbd9cadef9c7fefbba0)||借助苹果系统的快捷指令实现了 Siri 和 ChatGPT 的接入，需要自己有 OpenAI 的 Key 才能使用。||
 [aichat](https://github.com/RobertDoufu/aichat)|||将ChatGPT接入亚马逊的智能音箱Alexa|![](https://img.shields.io/github/stars/RobertDoufu/aichat.svg)|![](https://img.shields.io/github/forks/RobertDoufu/aichat.svg)
 TEXT GENERATOR|[Docs](https://pepcn.com/gtd/obsidian-bi-ji-zhu-shou-text-generator)|OBSIDIAN 笔记助手 TEXT GENERATOR|类似于Notion AI，可以帮助你在写作时让AI协助你生成内容或者润色内容，但是需要你自己有OpenAI的API Key||
-
+[gpt-macro](https://github.com/retrage/gpt-macro)|ChatGPT powered Rust proc macro that generates code at compile-time.|基于ChatGPT，在编译时根据写的注释自动生成代码（rust）|![](https://img.shields.io/github/stars/retrage/gpt-macro.svg)|![](https://img.shields.io/github/forks/retrage/gpt-macro.svg)
 
 ### Robot
 
