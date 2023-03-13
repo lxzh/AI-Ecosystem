@@ -150,6 +150,18 @@ https://mp.weixin.qq.com/s/hU4qk9kHmPn9xVGhFI5Hbg
 
 Chinese students can apply for ChatGPT API access on Baixing.com, with a limit of RMB 1,000 per engineer. It's really a great benefit, thanks to Wang Jianshuo and Baixing.com!
 
+#### Make ChatGPT return in Mermaid format, then run the returned result in Mermaid's editor to get a beautiful chart like the one in Figure 1
+
+![](https://wx4.sinaimg.cn/mw690/66fd066bgy1hbyntt0dojj20t81swagl.jpg)
+![](https://wx3.sinaimg.cn/mw690/66fd066bgy1hbynu5bovnj21a41kitme.jpg)
+![](https://wx2.sinaimg.cn/mw690/66fd066bgy1hbynub4tn4j21bq1187c6.jpg)
+prompt: Please return the following data in Mermaid format.
+
+The Mermaid online editor can be found at [website link](https://mermaid.live/edit).
+
+Mermaid is a text-based description language for generating various charts such as flowcharts, sequence diagrams, Gantt charts, and class diagrams. With its simple and understandable syntax, various charts can be quickly generated, making it ideal for writing, documentation, and presentation scenarios. Mermaid is implemented in JavaScript and can be run in both browser and Node.js environments.
+
+
 ## Whisper
 
 Name|Urls|About|Description|stars|forks
@@ -220,11 +232,6 @@ play.aidungeon.io
 The MUD dungeon game can generate unlimited Dungeons & Dragons-style game content, making it perfect for leisure and curiosity. It seems to use the GPT-3 model, with very high support for Chinese, and there is no barrier to speaking Chinese and getting an English response.
 
 This is completely detached from the RPG game's task line. You can push the plot in any direction, finally pass or fail, share good scripts with other users to restart the game, and then generate new branches.
-
-
-
-
-
 
 ## Other AI Apps
 

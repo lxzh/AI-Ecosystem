@@ -150,11 +150,22 @@ phind|[Site](https://www.phind.com/)|The AI search engine for developers.|面向
 ![](https://wx3.sinaimg.cn/orj360/68c4467dly1hbadjezqqwj21240uwna9.jpg)
 ![](https://wx1.sinaimg.cn/orj360/68c4467dly1hba7403vbmj20sr0pw0ya.jpg)
 
-####  免费的 ChatGPT gpt-3.5-turbo API 来了
+#### 免费的 ChatGPT gpt-3.5-turbo API 来了
 
 https://mp.weixin.qq.com/s/hU4qk9kHmPn9xVGhFI5Hbg
 
 国内的同学可以去百姓网申请ChatGPT的API访问，每个工程师可以有1000元人民币的限额，真是很大的福利啊，感谢王健硕和百姓网！
+
+#### 让 ChatGPT 返回 Mermaid 格式，然后将返回结果到 Mermaid 的编辑器中运行，就能得到图一那样好看的图表
+
+![](https://wx4.sinaimg.cn/mw690/66fd066bgy1hbyntt0dojj20t81swagl.jpg)
+![](https://wx3.sinaimg.cn/mw690/66fd066bgy1hbynu5bovnj21a41kitme.jpg)
+![](https://wx2.sinaimg.cn/mw690/66fd066bgy1hbynub4tn4j21bq1187c6.jpg)
+prompt：请将以下数据返回Mermaid格式
+
+Mermaid在线编辑器：[网页链接](https://mermaid.live/edit)
+
+Mermaid 是一个用于生成流程图、时序图、甘特图、类图等各种图表的文本描述语言。通过简单易懂的文本语法，可以快速生成各种图表，非常适合写作、文档、演示等场景。Mermaid 是基于 JavaScript 实现的，可以在浏览器端和 Node.js 环境下运行。
 
 ## Whisper
 
@@ -166,7 +177,7 @@ https://mp.weixin.qq.com/s/hU4qk9kHmPn9xVGhFI5Hbg
 [Whisper](https://github.com/Const-me/Whisper)||High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model|又一款基于 OpenAI Whisper 的开源本地语音转文字工具，最重要的是增加了 GPU 的支持，让转换速度成倍增加。只需要下载一个 1.5G 的模型，就可以在 Windows 电脑里转换了，支持音频文件，比如 .mp3，也支持麦克风进行实时转换。​​​|![](https://img.shields.io/github/stars/Const-me/Whisper.svg)|![](https://img.shields.io/github/forks/Const-me/Whisper.svg)
 [Whisperboard](https://github.com/Saik0s/Whisperboard)|[Install](https://apps.apple.com/cn/app/whisperboard/id1661442906)|iOS app to record and transcribe speech to text with the help of the OpenAI Whisper model|基于OpenAI's Whisper model做的离线语音转文本iOS App。它是基于whisper.cpp 微博正文 之上开发的|![](https://img.shields.io/github/stars/Saik0s/Whisperboard.svg)|![](https://img.shields.io/github/forks/Saik0s/Whisperboard.svg)
 
-## Stable Diffusion 
+## Stable Diffusion
 
 ### 教程
 
@@ -214,13 +225,11 @@ Chrome浏览器插件，除了随时调用ChatGPT来对当前页面进行总结�
 
 因为功能种类很多，所以用起来可能会繁琐一些，前期需要不断的调教，或者干脆放弃多余的选项，只用它的页面感知能力，超乎想像的全能。
 
-
 ## HOTOKE AI
 
 hotoke.ai
 
 人工智能佛教大师，类似于ChatPDF，输入问题，检索佛经借助ChatGPT回答你，感觉文档、出版物都要被embedding一遍。​​​
-
 
 ## AI Dungeon
 
@@ -229,12 +238,6 @@ play.aidungeon.io
 MUD地牢游戏，可以无限生成龙与地下城式的游戏内容，很适合消遣和猎奇，用的好像是GPT-3模型，对中文的支持度非常高，对话起来你说中文它出英文完全没有任何障碍。
 
 这完全脱离了RPG游戏的任务线，你可以天马行空的推进剧情，最后通关或者失败，好的剧本会被分享出来让其他用户进去重开游戏，然后又产生新的支线。
-
-
-
-
-
-
 
 ## Other AI Apps
 
