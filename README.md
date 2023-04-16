@@ -186,9 +186,20 @@ Name|Urls|About|Description|stars|forks
 
 ### Stable Diffusion Apps
 
-photoai.io
+1. Stable Diffusion XL
+
+Stable Diffusion XL, the latest model of Stable Diffusion, opens for testing, Testing site:https://clipdrop.co/stable-diffusion
+
+2. photoai.io
 
 Independent developer `@levelsio's` 70+ person project photoai.io, which uses stable diffusion to generate photos, went live and reached an MRR of $10,000 within three weeks. This is a web application.
+
+## AnimatedDrawings
+
+Name|Urls|About|Description|stars|forks
+---|---|---|---|---|---
+[AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)|[Demo](https://sketch.metademolab.com/)|Meta has an interesting open-source project called AnimatedDrawings, which can turn children's hand-drawn pictures into lively animations, making characters come to life.|Official instructions for using AnimatedDrawings:</p>1. Upload your simple drawing</p>2. Crop the image to keep the character</p>3. Identify the skeleton and manually adjust it</p>4. Generate animation</p>Demo[video link](https://sketch.metademolab.com/static/media/splashVideo.db13dd10.mp4)|​![](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|![](https://img.shields.io/github/forks/facebookresearch/AnimatedDrawings.svg)
+
 
 ## Humata
 

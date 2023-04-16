@@ -191,9 +191,21 @@ Mermaid 是一个用于生成流程图、时序图、甘特图、类图等各种
 
 ### Apps
 
-photoai.io
+1. Stable Diffusion XL
+
+Stable Diffusion 最新的模型 Stable Diffusion XL 开放测试，测试地址:https://clipdrop.co/stable-diffusion
+
+
+2. photoai.io
 
 独立开发者 `@levelsio` 的第 70+ 个人项目 photoai.io 在上线 3 周后，MRR 就达到了 10000 美金，这是一个 用 stable diffusion 生成照片的 web 应用。
+
+## AnimatedDrawings
+
+名称|链接|关于|描述|stars|forks
+---|---|---|---|---|---
+[AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)|[Demo](https://sketch.metademolab.com/)|Meta 开源的一个非常有趣的项目，能将孩子的手绘转成生动的动画，让角色动起来！|AnimatedDrawings的官方使用说明</p>1. 上传你的简笔画</p>2. 裁剪图片，保留角色</p>3. 识别骨骼，手动调整骨骼</p>4. 生成动画</p>演示[视频地址](https://sketch.metademolab.com/static/media/splashVideo.db13dd10.mp4)|​![](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|![](https://img.shields.io/github/forks/facebookresearch/AnimatedDrawings.svg)
+
 
 ## Humata
 
