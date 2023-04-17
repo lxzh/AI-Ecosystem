@@ -200,6 +200,15 @@ Name|Urls|About|Description|stars|forks
 ---|---|---|---|---|---
 [AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)|[Demo](https://sketch.metademolab.com/)|Meta has an interesting open-source project called AnimatedDrawings, which can turn children's hand-drawn pictures into lively animations, making characters come to life.|Official instructions for using AnimatedDrawings:</p>1. Upload your simple drawing</p>2. Crop the image to keep the character</p>3. Identify the skeleton and manually adjust it</p>4. Generate animation</p>Demo[video link](https://sketch.metademolab.com/static/media/splashVideo.db13dd10.mp4)|​![](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|![](https://img.shields.io/github/forks/facebookresearch/AnimatedDrawings.svg)
 
+## Claude
+
+Claude is a Chinese AI chatbot. From its self-introduction, it can be seen that Claude has natural language understanding and generation functions such as machine translation, sentiment analysis, and knowledge graph. I actually tested it and the translation effect is not bad. It can be used as a translation tool.
+Because Slack supports Chinese and provides web, desktop and mobile versions with a low threshold, no tokens or fees, network-friendly and direct connection, the user experience is really good.
+The steps are as follows:
+
+1. First you need to create your own workspace on Slack's website (similar to creating an account)
+2. Add the Claude app to the workspace on the website (as shown in Figure 2). After adding, you can see it in your own app list.
+3. Then you can start chatting with Claude. 
 
 ## Humata
 

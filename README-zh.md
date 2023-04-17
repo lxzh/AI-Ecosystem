@@ -207,6 +207,19 @@ Stable Diffusion 最新的模型 Stable Diffusion XL 开放测试，测试地址
 [AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)|[Demo](https://sketch.metademolab.com/)|Meta 开源的一个非常有趣的项目，能将孩子的手绘转成生动的动画，让角色动起来！|AnimatedDrawings的官方使用说明</p>1. 上传你的简笔画</p>2. 裁剪图片，保留角色</p>3. 识别骨骼，手动调整骨骼</p>4. 生成动画</p>演示[视频地址](https://sketch.metademolab.com/static/media/splashVideo.db13dd10.mp4)|​![](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|![](https://img.shields.io/github/forks/facebookresearch/AnimatedDrawings.svg)
 
 
+## Claude
+
+Claude 是一个中文AI聊天机器人。从自我介绍里面可以看出Claude具备 机器翻译、情感分析、知识图谱等自然语言理解与生成功能。实际测试了一下，翻译效果还不错，可以当个翻译工具来用。
+
+因为 Slack 支持中文，提供了网页、桌面与移动端版本使用门槛低，不需要Token 付费，网络友好可直连，使用体验真心不错。
+
+使用步骤如下:
+
+1. 首先需要在Slack: 网页链接创建一个自己的工作区(类似创建账号)
+2. 将 Claude 应用添加到工作区网页链接图二)，添加后在自己的应用列表就可以看到了
+3. 然后就可以开始跟 Claude 对话了
+
+
 ## Humata
 
 humata.ai
