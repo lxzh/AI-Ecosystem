@@ -177,6 +177,42 @@ Mermaid 是一个用于生成流程图、时序图、甘特图、类图等各种
 [Whisper](https://github.com/Const-me/Whisper)||High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model|又一款基于 OpenAI Whisper 的开源本地语音转文字工具，最重要的是增加了 GPU 的支持，让转换速度成倍增加。只需要下载一个 1.5G 的模型，就可以在 Windows 电脑里转换了，支持音频文件，比如 .mp3，也支持麦克风进行实时转换。​​​|![](https://img.shields.io/github/stars/Const-me/Whisper.svg)|![](https://img.shields.io/github/forks/Const-me/Whisper.svg)
 [Whisperboard](https://github.com/Saik0s/Whisperboard)|[Install](https://apps.apple.com/cn/app/whisperboard/id1661442906)|iOS app to record and transcribe speech to text with the help of the OpenAI Whisper model|基于OpenAI's Whisper model做的离线语音转文本iOS App。它是基于whisper.cpp 微博正文 之上开发的|![](https://img.shields.io/github/stars/Saik0s/Whisperboard.svg)|![](https://img.shields.io/github/forks/Saik0s/Whisperboard.svg)
 
+
+## Claude
+
+Claude 是一个中文AI聊天机器人。从自我介绍里面可以看出Claude具备 机器翻译、情感分析、知识图谱等自然语言理解与生成功能。实际测试了一下，翻译效果还不错，可以当个翻译工具来用。
+
+因为 Slack 支持中文，提供了网页、桌面与移动端版本使用门槛低，不需要Token 付费，网络友好可直连，使用体验真心不错。
+
+使用步骤如下:
+
+1. 首先需要在Slack: 网页链接创建一个自己的工作区(类似创建账号)
+2. 将 Claude 应用添加到工作区网页链接图二)，添加后在自己的应用列表就可以看到了
+3. 然后就可以开始跟 Claude 对话了
+
+## NewBing
+
+https://www.bing.com/new
+
+## Google Bard
+
+http://bard.google.com
+
+## 百度 文心一言
+
+https://yiyan.baidu.com
+
+## Alpaca 羊驼
+
+https://www.standford.edu/ 斯坦福推出的开源聊天工具
+
+
+## Midjourney
+
+https://www.midjourney.com
+
+以文生图
+
 ## Stable Diffusion
 
 ### 教程
@@ -200,6 +236,10 @@ Stable Diffusion 最新的模型 Stable Diffusion XL 开放测试，测试地址
 
 独立开发者 `@levelsio` 的第 70+ 个人项目 photoai.io 在上线 3 周后，MRR 就达到了 10000 美金，这是一个 用 stable diffusion 生成照片的 web 应用。
 
+3. Vega AI
+
+https://rightbrain.art/text2Image 低配版的 Midjourney+Stable Diffusion
+
 ## AnimatedDrawings
 
 名称|链接|关于|描述|stars|forks
@@ -207,27 +247,60 @@ Stable Diffusion 最新的模型 Stable Diffusion XL 开放测试，测试地址
 [AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)|[Demo](https://sketch.metademolab.com/)|Meta 开源的一个非常有趣的项目，能将孩子的手绘转成生动的动画，让角色动起来！|AnimatedDrawings的官方使用说明</p>1. 上传你的简笔画</p>2. 裁剪图片，保留角色</p>3. 识别骨骼，手动调整骨骼</p>4. 生成动画</p>演示[视频地址](https://sketch.metademolab.com/static/media/splashVideo.db13dd10.mp4)|​![](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|![](https://img.shields.io/github/forks/facebookresearch/AnimatedDrawings.svg)
 
 
-## Claude
+## 文心一格
 
-Claude 是一个中文AI聊天机器人。从自我介绍里面可以看出Claude具备 机器翻译、情感分析、知识图谱等自然语言理解与生成功能。实际测试了一下，翻译效果还不错，可以当个翻译工具来用。
+https://yige.baidu.com/ 百度图像生成
 
-因为 Slack 支持中文，提供了网页、桌面与移动端版本使用门槛低，不需要Token 付费，网络友好可直连，使用体验真心不错。
+## Murf
 
-使用步骤如下:
+https://murf.ai 模拟真人，还原你的声音
 
-1. 首先需要在Slack: 网页链接创建一个自己的工作区(类似创建账号)
-2. 将 Claude 应用添加到工作区网页链接图二)，添加后在自己的应用列表就可以看到了
-3. 然后就可以开始跟 Claude 对话了
+## Resemble AI
 
+https://www.reseemle.ai 一键克隆你的声音
+
+## 网易天音
+
+https://tianyin.music.163.com 一站式 AI 音乐创作
+
+## D-ID
+
+https://www.d-id.com 文字转视频，虚拟数字人
+
+## Runway
+
+https://runwayml.com 文字生成视频，制作任意你想要的
+
+## Visla
+
+https://www.visla.us 文字一键生成视频
+
+## 一帧秒创
+
+https://aigc.yizhentv.com
+
+## 一起剪
+
+https://www.yiqijian.com 一键文字生成视频
 
 ## Humata
 
 humata.ai
 ChatPDF 平替版 Humata（humata.ai），功能相同，页数上限是60，2款同时用可以交叉对比，避免错漏。
 
+## Notion AI
+
+https://www.notion.so/product/ai
+
+堪称目前最好的文档类工具
+
+## ChatDoc 
+
+https://chatdoc.com
+
 ## ChatExcel
 
-chatexcel.com
+https://chatexcel.com
 
 北大团队做的，和上面相似，只不过上传的是Excel，然后可以通过自然语言下命令，对表格进行任意调整，调用的是OpenAI专为表格处理做的API服务OpenAI Tabulate。
 美中不足的是这还只是一个demo，只支持1MB以内、不超过10列的excel文件，也没有收费选项，局限性很大。
@@ -235,6 +308,10 @@ chatexcel.com
 <video src="https://g.us.sinaimg.cn/o0/6Ts7vjOclx083KWb2ZPi010412001mL30E010.mp4?ssig=E%2F7fMqwSq0&Expires=1678640819&KID=unistore,video"></video>
 <video src="https://g.us.sinaimg.cn/o0/yb7x93Yqlx083KWbaLfi010412001sq10E010.mp4?ssig=Zcs3jR33cS&Expires=1678640819&KID=unistore,video"></video>
 
+
+## Chat XMind
+
+https://www.chatmind.tech/
 
 ## Mem
 
@@ -266,13 +343,26 @@ MUD地牢游戏，可以无限生成龙与地下城式的游戏内容，很适�
 
 ## Other AI Apps
 
-分类|Apps
----|---
-写作类|copy.ai<p>writemaster.ai<p>copymatic.ai
-图片类|openai.com/dall-e-2/<p>deepai.org<p>lexica.art
-图标/UI设计|logo.com<p>lordicon.com<p>uiverse.io
-视频/剪辑|runwayml.com<p>veed.io
-配音|murf.ai<p>typecast.ai
-编程|tabnine.com<p>|beta.openai.com/examples
-小工具|智能取名：namelix.com<p>福利姬杀手（仅做研究用）：pornpen.ai
-聚合功能|gpt3demo.com/map<p>futuretools.io/?tags-n5zn=fin…<p>futurepedia.io<p>allthingsai.com
+分类|Apps|desc
+---|---|---
+写作类|copy.ai<p>writemaster.ai<p>copymatic.ai|营销软文，自媒体稿件小助手
+图片类|openai.com/dall-e-2/<p>deepai.org<p>lexica.art|
+图标/UI设计|logo.com<p>lordicon.com<p>uiverse.io|
+视频/剪辑|runwayml.com<p>veed.io|
+配音|murf.ai<p>typecast.ai|
+编程|tabnine.com<p>|beta.openai.com/examples|
+小工具|智能取名：namelix.com<p>福利姬杀手（仅做研究用）：pornpen.ai|
+聚合功能|gpt3demo.com/map<p>futuretools.io/?tags-n5zn=fin…<p>futurepedia.io<p>allthingsai.com|
+
+
+### 博思白板
+
+https://boardmix.cn 无边界功能，能激发一些创意灵感
+
+### Copywritely
+
+https://copywritely.com  SEO 写作工具
+
+### 密塔写作猫
+
+https://xiezuocat.com
