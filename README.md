@@ -43,6 +43,7 @@ Siri Pro|[Install](https://www.icloud.com/shortcuts/e3b3a71269364bbd9cadef9c7fef
 [aichat](https://github.com/RobertDoufu/aichat)|||将ChatGPT接入亚马逊的智能音箱Alexa|![](https://img.shields.io/github/stars/RobertDoufu/aichat.svg)|![](https://img.shields.io/github/forks/RobertDoufu/aichat.svg)
 TEXT GENERATOR|[Docs](https://pepcn.com/gtd/obsidian-bi-ji-zhu-shou-text-generator)|OBSIDIAN 笔记助手 TEXT GENERATOR|类似于Notion AI，可以帮助你在写作时让AI协助你生成内容或者润色内容，但是需要你自己有OpenAI的API Key||
 [gpt-macro](https://github.com/retrage/gpt-macro)|ChatGPT powered Rust proc macro that generates code at compile-time.|基于ChatGPT，在编译时根据写的注释自动生成代码（rust）|![](https://img.shields.io/github/stars/retrage/gpt-macro.svg)|![](https://img.shields.io/github/forks/retrage/gpt-macro.svg)
+[compress-gpt](https://github.com/yasyf/compress-gpt)|Self-extracting GPT prompts for ~70% token savings|提示压缩器，可以为大多数基于 LangChain 工具的提示减少约70% 的Token，只需更改一行代码|![](https://img.shields.io/github/stars/yasyf/compress-gpt.svg)|![](https://img.shields.io/github/forks/yasyf/compress-gpt.svg)
 
 ### 机器人
 
