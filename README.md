@@ -200,6 +200,12 @@ https://www.bing.com/new
 
 http://bard.google.com
 
+## 复旦 MOSS
+
+https://github.com/OpenLMLab/MOSS 
+
+MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss-moon 系列模型具有 160 亿参数，在FP16 精度下可在单张 A100/A800 或两张 3090 显卡运行，在 INT4/8 精度下可在单张 3090 显卡运行。MOSS 基座语言模型在约七千亿中英文以及代码单词上预训练得到，后续经过对话指令微调、插件增强学习和人类偏好训练具备多轮对话能力及使用多种插件的能力。
+
 ## 百度 文心一言
 
 https://yiyan.baidu.com
@@ -253,7 +259,6 @@ https://rightbrain.art/text2Image 低配版的 Midjourney+Stable Diffusion
 名称|链接|关于|描述|stars|forks
 ---|---|---|---|---|---
 [AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)|[Demo](https://sketch.metademolab.com/)|Meta 开源的一个非常有趣的项目，能将孩子的手绘转成生动的动画，让角色动起来！|AnimatedDrawings的官方使用说明</p>1. 上传你的简笔画</p>2. 裁剪图片，保留角色</p>3. 识别骨骼，手动调整骨骼</p>4. 生成动画</p>演示[视频地址](https://sketch.metademolab.com/static/media/splashVideo.db13dd10.mp4)|​![](https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings.svg)|![](https://img.shields.io/github/forks/facebookresearch/AnimatedDrawings.svg)
-
 
 ## 文心一格
 
