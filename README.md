@@ -202,9 +202,10 @@ http://bard.google.com
 
 ## 复旦 MOSS
 
-https://github.com/OpenLMLab/MOSS 
+名称|链接|关于|描述|stars|forks
+---|---|---|---|---|---
+[MOSS](https://github.com/OpenLMLab/MOSS)|[Site](https://moss.fastnlp.top/)|An open-source tool-augmented conversational language model from Fudan University|MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss-moon 系列模型具有 160 亿参数，在FP16 精度下可在单张 A100/A800 或两张 3090 显卡运行，在 INT4/8 精度下可在单张 3090 显卡运行。MOSS 基座语言模型在约七千亿中英文以及代码单词上预训练得到，后续经过对话指令微调、插件增强学习和人类偏好训练具备多轮对话能力及使用多种插件的能力。|![](https://img.shields.io/github/stars/OpenLMLab/MOSS.svg)|![](https://img.shields.io/github/forks/OpenLMLab/MOSS.svg)
 
-MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss-moon 系列模型具有 160 亿参数，在FP16 精度下可在单张 A100/A800 或两张 3090 显卡运行，在 INT4/8 精度下可在单张 3090 显卡运行。MOSS 基座语言模型在约七千亿中英文以及代码单词上预训练得到，后续经过对话指令微调、插件增强学习和人类偏好训练具备多轮对话能力及使用多种插件的能力。
 
 ## 百度 文心一言
 
