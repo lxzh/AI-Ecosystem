@@ -207,6 +207,12 @@ https://yiyan.baidu.com
 
 https://www.standford.edu/ 斯坦福推出的开源聊天工具
 
+## Finchat
+
+https://finchat.io/
+
+Finchat.io这个产品是一个相对比较有特色的文档问答类网站，它集成了750多家公司的经融数据。
+感觉是把财报等数据借助Embedding都向量化了，然后接入ChatGPT进行对话。
 
 ## Midjourney
 
