@@ -113,6 +113,7 @@ Search|[Bloop](https://github.com/BloopAI/bloop)|[Site](https://bloop.ai/)|bloop
 
 名称|链接|关于|描述|stars|forks
 ---|---|---|---|---|---
+[AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)|[Doc](https://significant-gravitas.github.io/Auto-GPT/)|An experimental open-source attempt to make GPT-4 fully autonomous.|AutoGPT是一个利用GPT-4语言模型来实现自动化任务的应用程序，能做任何脑力工作！无需人类插手，就可以自主完成任务！|![](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg)|![](https://img.shields.io/github/forks/Significant-Gravitas/Auto-GPT.svg)
 [AgentGPT](https://github.com/reworkd/AgentGPT)|[Site](https://agentgpt.reworkd.ai/)|Assemble, configure, and deploy autonomous AI Agents in your browser.|AgentGPT是一个自动运行的GPT代理，你给它一个任务，它会尝试通过网络去帮助你寻找答案，整个过程完全自动化。</p>用户设置好目标后，让GPT去根据目标生成0-3条可以采取的行动，再让GPT对每个行动去执行并获取结果，根据返回结果再由GPT去决定要不要继续产生新的后续的行动，直到达成目标，或超过最大迭代次数限制为止。|![](https://img.shields.io/github/stars/reworkd/AgentGPT.svg)|![](https://img.shields.io/github/forks/reworkd/AgentGPT.svg)
 
 ### 其他
