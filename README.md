@@ -26,7 +26,7 @@
 [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel)|[Site](https://www.aitoolgpt.com/)|Powered by OpenAI API (gpt-3.5-turbo) and Vercel|开源的ChatGPT的Chatbot网站模板。如果你只需要部署一个你自己用的网站，而不需要定制，那么你完全不需要在本地跑起来，你可以直接点击下面的按钮，然后按照提示操作即可。 vercel 域名已经被墙，但 vercel 本身没有被墙，所以你绑定自己的域名就可以了。|![](https://img.shields.io/github/stars/ourongxing/chatgpt-vercel.svg)|![](https://img.shields.io/github/forks/ourongxing/chatgpt-vercel.svg)
 [chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)|[Site](https://www.chatwithgpt.ai/)|An open-source ChatGPT app with a voice||![](https://img.shields.io/github/stars/cogentapps/chat-with-gpt.svg)|![](https://img.shields.io/github/forks/cogentapps/chat-with-gpt.svg)
 [chatwithme.chat](https://github.com/kierangilliam/chatwithme.chat)|[Site](https://www.chatwithme.chat/tutorial)|Open source ChatGPT UI||![](https://img.shields.io/github/stars/kierangilliam/chatwithme.chat.svg)|![](https://img.shields.io/github/forks/kierangilliam/chatwithme.chat.svg)
-
+[my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt)|[Site](my-chat-gpt-lake.vercel.app)|This is a OSS standalone ChatGPT client. It is based on ChatGPT. The client works almost just like the original ChatGPT websites but it includes some additional features.||![](https://img.shields.io/github/stars/Loeffeldude/my-chat-gpt.svg)|![](https://img.shields.io/github/forks/Loeffeldude/my-chat-gpt.svg)
 
 ### 扩展
 名称|链接|关于|描述|stars|forks
