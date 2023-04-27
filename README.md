@@ -109,6 +109,12 @@ SQL|[sql-translator](https://github.com/whoiskatrin/sql-translator)|[Site](https
 Search|[Bloop](https://github.com/BloopAI/bloop)|[Site](https://bloop.ai/)|bloop is a fast code search engine written in Rust.|一个基于 GPT-4 构建的代码搜索引擎：Bloop。</p>该工具采用基于 GPT-4 的 AI 智能模型，成功实现用自然语言，语义化的代码搜索方式。</p>详细介绍：[一个基于 GPT-4 的代码搜索引擎，开源了！](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457982448&idx=1&sn=aa3c06c76aa67ba2bf77ca32d8967865&chksm=8cb7b01abbc0390c8b8afefc8d4e982430c27a85b1f26719550da1252e33c9d13bbaf6dbd518&token=1761457851&lang=zh_CN#rd)</p>你可以通过 Bloop，直接使用自然语言、正则表达式，来快速过滤查询搜索本地和远程存储库。让阅读源码变得更为高效，可以腾出手专注于业务上的功能开发。</p></p>它的主要功能如下：</p></p>- 基于 GPT-4 的会话搜索；</p>- 超快的正则表达式搜索；</p>- 一键同步本地和 GitHub 仓库；</p>- 复杂的查询过滤器，可调整搜索结果范围；</p>- 使用符号搜索查找函数、变量或特征；</p>- 支持 10 多种编程语言的代码导航（转到参考和转到定义）。</p></p>Bloop 基于 Rust 语言开发，因此在执行搜索任务时，效率也颇为惊人。目前支持 Windows、macOS、Linux 等主流操作系统。|![](https://img.shields.io/github/stars/BloopAI/bloop.svg)|![](https://img.shields.io/github/forks/BloopAI/bloop.svg)
 
 
+### 自动化
+
+名称|链接|关于|描述|stars|forks
+---|---|---|---|---|---
+[AgentGPT](https://github.com/reworkd/AgentGPT)|[Site](https://agentgpt.reworkd.ai/)|Assemble, configure, and deploy autonomous AI Agents in your browser.|AgentGPT是一个自动运行的GPT代理，你给它一个任务，它会尝试通过网络去帮助你寻找答案，整个过程完全自动化。</p>用户设置好目标后，让GPT去根据目标生成0-3条可以采取的行动，再让GPT对每个行动去执行并获取结果，根据返回结果再由GPT去决定要不要继续产生新的后续的行动，直到达成目标，或超过最大迭代次数限制为止。|![](https://img.shields.io/github/stars/reworkd/AgentGPT.svg)|![](https://img.shields.io/github/forks/reworkd/AgentGPT.svg)
+
 ### 其他
 
 名称|链接|关于|描述|stars|forks
