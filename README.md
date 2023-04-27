@@ -130,6 +130,8 @@ phind|[Site](https://www.phind.com/)|The AI search engine for developers.|面向
 
 - [ChatGPT的工作原理，这篇文章说清楚了](https://mp.weixin.qq.com/s/aJ18t1NkFL-ZLCccB6WxHQ)
 
+- [RMT，循环记忆Transformer（Recurrent Memory Transformer）：一种可将Transformer Token上限扩展到100万甚至200万的方法（目前最高3.2万）](https://arxiv.org/abs/2304.11062)
+
 - [ChatGPT赚钱套路汇总](https://twitter-thread.com/t/1627913592300359680)
 
 - [我提前获得了ChatGPT的API，然后把它推向了极限。以下是你需要了解的情况。](https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq)  
