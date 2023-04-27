@@ -11,6 +11,7 @@
 ---|---|---|---|---|---
 [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)|[Link](https://prompts.chat/)|This repo includes ChatGPT prompt curation to use ChatGPT better.|这是一个快速上手 ChatGPT 模型的示例集合。|![](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts.svg)|![](https://img.shields.io/github/forks/f/awesome-chatgpt-prompts.svg)
 [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)|[Site](https://awesome-chatgpt-api.top/)|Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.|ChatGPT衍生开源项目清单|![](https://img.shields.io/github/stars/reorx/awesome-chatgpt-api.svg)|![](https://img.shields.io/github/forks/reorx/awesome-chatgpt-api.svg)
+[every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui)||Every front-end GUI client for ChatGPT||![](https://img.shields.io/github/stars/billmei/every-chatgpt-gui.svg)|![](https://img.shields.io/github/forks/billmei/every-chatgpt-gui.svg)
 [ChatGPT-Hub](https://github.com/chenweiphd/ChatGPT-Hub)|||ChatGPT资源汇总 by `@Dr. CHEN Wei`|![](https://img.shields.io/github/stars/chenweiphd/ChatGPT-Hub.svg)|![](https://img.shields.io/github/forks/chenweiphd/ChatGPT-Hub.svg)
 [carrot](https://github.com/xx025/carrot)||这儿收集了一些免费好用的ChatGPT镜像站 当前：47个站点|Free ChatGPT Site List - 收集一些免费的ChatGPT镜像站点，大多数基于ChatGPT的最新API构建 by `@Rycbar123`|![](https://img.shields.io/github/stars/xx025/carrot.svg)|![](https://img.shields.io/github/forks/xx025/carrot.svg)
 
