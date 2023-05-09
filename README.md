@@ -136,6 +136,7 @@ phind|[Site](https://www.phind.com/)|The AI search engine for developers.|面向
 [Ask2End](https://github.com/lvwzhen/Ask2End)|[Site](https://ask2end.com/)|Ask to the End (by OpenAI)|一个AI问答平台（ask2end.com），采用苏格拉底式的提问法，反复提问，探究问题的本质，从而得到最终的答案。这个工具不仅可以提供解决问题的思路，还能锻炼思维能力。 ​​​|![](https://img.shields.io/github/stars/lvwzhen/Ask2End.svg)|![](https://img.shields.io/github/forks/lvwzhen/Ask2End.svg)
 [SmartGPT](https://github.com/Cormanz/smartgpt)|[Intro](https://mp.weixin.qq.com/s/rlu1we8YPJZcu_13iB9obg)|A program that provides LLMs with the ability to complete complex tasks using plugins.|这个GitHub新项目，能让ChatGPT完成复杂任务，GPT3.5和GPT-4都支持。它通过将问题拆解，并调用外部资源，提高了GPT的工作能力。在它的调教下，GPT-4回答的准确率从68%提高到了85%。这个项目名叫SmartGPT，这个名字很直白地告诉了我们它的作用。无论是直观感受还是量化数据，GPT在它的加持之下回答正确率都有提高。|![](https://img.shields.io/github/stars/Cormanz/smartgpt.svg)|![](https://img.shields.io/github/forks/Cormanz/smartgpt.svg)
 Copilot Hub|[Site](https://app.copilothub.ai/copilots)||ChatGPT提示词生成器，告诉它你的需求，Copilot Hub就能自动生成提示词||
+[privateGPT](https://github.com/imartinez/privateGPT)||Interact privately with your documents using the power of GPT, 100% privately, no data leaks|基于GPT4All-J的私有化部署文档问答平台，无需联网，能100%保证用户的隐私不泄露。提供了一个API，用户可以使用自己的文档进行交互式问答和生成文本。此外，平台支持自定义训练数据和模型参数，以满足个性化需求|![](https://img.shields.io/github/stars/imartinez/privateGPT.svg)|![](https://img.shields.io/github/forks/imartinez/privateGPT.svg)
 
 
 ### 一些文章
