@@ -15,7 +15,7 @@
 [ChatGPT-Hub](https://github.com/chenweiphd/ChatGPT-Hub)|||ChatGPT资源汇总 by `@Dr. CHEN Wei`|![](https://img.shields.io/github/stars/chenweiphd/ChatGPT-Hub.svg)|![](https://img.shields.io/github/forks/chenweiphd/ChatGPT-Hub.svg)
 [carrot](https://github.com/xx025/carrot)||这儿收集了一些免费好用的ChatGPT镜像站 当前：47个站点|Free ChatGPT Site List - 收集一些免费的ChatGPT镜像站点，大多数基于ChatGPT的最新API构建 by `@Rycbar123`|![](https://img.shields.io/github/stars/xx025/carrot.svg)|![](https://img.shields.io/github/forks/xx025/carrot.svg)
 ai-bot|[Site](https://ai-bot.cn/)|AI工具集导航|AI工具集，整理了500多个AI工具。有详细分类，包括AI写作、图像处理、音视频工具、编程开发、对话聊天、翻译等等，查找很方便。 ​​​||
-
+aigc.cn|[Site](https://www.aigc.cn/)|AIGC工具导航|AIGC工具导航，该站收集了全球1240+AI工具集合，种类非常多，包括AI搜索、AI写作、AI绘画、AI作曲、AI视频、AI剪辑、AI动画、AI3D、AI游戏、AI营销、AI生命科学等，而且还有一些和AI相关的行业资源与工具教程，非常实用！||
 
 ### 示例
 
