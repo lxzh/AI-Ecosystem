@@ -132,7 +132,7 @@ phind|[Site](https://www.phind.com/)|The AI search engine for developers.|面向
 [gpt_index](https://github.com/jerryjliu/gpt_index)|[Link](https://gpt-index.readthedocs.io/en/latest/)|LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.|现在那些将pdf、epub等文本数据训练并和ChatGPT整合，让你可以基于文本内容回复问题的AI衍生应用，例如chatpdf。如果自己要做的话，基于gpt-index是最简单方便的，可以把书、论文、甚至某人的微博都扔进去。|![](https://img.shields.io/github/stars/jerryjliu/gpt_index.svg)|![](https://img.shields.io/github/forks/jerryjliu/gpt_index.svg)
 [promptable](https://github.com/cfortuner/promptable)|[Site](https://docs-promptable.vercel.app/)|Build LLM apps in Typescript/Javascript.|promptable 是一个针对JS/TypeScript的库，可以让你方便的基于OpenAI的API开发Web应用，它不仅对OpenAI的API进行了封装，并且也对一些常见的应用场景做了封装，比如说：<p>- 生成Embeddings<p>- 搜索相似内容<p>- 根据Embeddings结果对话<p>- 摘要（包括长文摘要）<p>- 把音频生成字幕文件（Whisper）<p>  - ChatGPT聊天对话|![](https://img.shields.io/github/stars/cfortuner/promptable.svg)|![](https://img.shields.io/github/forks/cfortuner/promptable.svg)
 [openai-gpt-dev-notes-for-cn-developer](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer)||如何快速开发一个OpenAI/GPT应用：国内开发者笔记|`@Easy` 大佬整理的：开发一个OpenAI/GPT应用必然用到的知识。|![](https://img.shields.io/github/stars/easychen/openai-gpt-dev-notes-for-cn-developer.svg)|![](https://img.shields.io/github/forks/easychen/openai-gpt-dev-notes-for-cn-developer.svg)
-
+[Ask2End](https://github.com/lvwzhen/Ask2End)|[Site](https://ask2end.com/)|Ask to the End (by OpenAI)|一个AI问答平台（ask2end.com），采用苏格拉底式的提问法，反复提问，探究问题的本质，从而得到最终的答案。这个工具不仅可以提供解决问题的思路，还能锻炼思维能力。 ​​​|![](https://img.shields.io/github/stars/lvwzhen/Ask2End.svg)|![](https://img.shields.io/github/forks/lvwzhen/Ask2End.svg)
 
 
 ### 一些文章
