@@ -119,6 +119,7 @@ Search|[Bloop](https://github.com/BloopAI/bloop)|[Site](https://bloop.ai/)|bloop
 [AgentGPT](https://github.com/reworkd/AgentGPT)|[Site](https://agentgpt.reworkd.ai/)|Assemble, configure, and deploy autonomous AI Agents in your browser.|AgentGPT是一个自动运行的GPT代理，你给它一个任务，它会尝试通过网络去帮助你寻找答案，整个过程完全自动化。</p>用户设置好目标后，让GPT去根据目标生成0-3条可以采取的行动，再让GPT对每个行动去执行并获取结果，根据返回结果再由GPT去决定要不要继续产生新的后续的行动，直到达成目标，或超过最大迭代次数限制为止。|![](https://img.shields.io/github/stars/reworkd/AgentGPT.svg)|![](https://img.shields.io/github/forks/reworkd/AgentGPT.svg)
 AI Agent|[Site](https://aiagent.app/)|AI Agent is a conversational AI platform that enables businesses to build chatbots for customer support, lead generation, and sales.|AI Agent 是一款平替AutoGPT的工具，无需技术能力，无需API密钥，无需富强。输入你要实现的目标，它自动会帮你去实现目标。||
 Dogpt|[Site](https://www.dogpt.ai/)||AgentGPT无需API的fork版本||
+[melty](https://github.com/meltylabs/melty)||Melty 是一款 AI 代码编辑器，其中每条聊天消息都是一次 git 提交|这款开源的 AI 代码编辑器，由 Charlie Holtz 和 Jackson de Campos 两位天才创办。简单的说，Melty 可以从你的终端到 GitHub，全面理解开发者在干什么，还能实时协作，帮助你写出生产级的高质量代码。这就好比有一个虚拟的编程助手，随时随地陪伴在你身边，帮你解决各种技术难题。<br>Melty 的目标不仅仅是写代码，它更希望能够帮助开发者理解代码的每一个变化，就像有一个搭档在旁边指导你。它会随着你编写代码的过程而不断学习，逐渐适应你的风格。这样，你不仅能提升编码速度，还能提高代码质量，减少出错的概率。|![](https://img.shields.io/github/stars/meltylabs/melty.svg)|![](https://img.shields.io/github/forks/meltylabs/melty.svg)
 
 ### OCR
 
