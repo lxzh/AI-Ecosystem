@@ -124,8 +124,7 @@ Dogpt|[Site](https://www.dogpt.ai/)||AgentGPT无需API的fork版本||
 
 名称|链接|关于|描述|stars|forks
 ---|---|---|---|---|---
-[GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)|[Download](https://huggingface.co/stepfun-ai/GOT-OCR2_0)|通用 OCR 理论的官方代码实现：通过统一的端到端模型实现 OCR-2.0|一个端到端的开源 OCR 模型，号称 OCR 2.0！<br>支持场景文本、文档、乐谱、图表、数学公式等内容识别，拿到了 BLEU 0.972 高分。<br>从给出的演示图来看，一些非常复杂的数学公式都能正确的识别，颇为强大。模型大小仅 1.43GB，感兴趣的可以试试。
-|![](https://img.shields.io/github/stars/Ucas-HaoranWei/GOT-OCR2.0.svg)|![](https://img.shields.io/github/forks/Ucas-HaoranWei/GOT-OCR2.0.svg)
+[GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)|[Download](https://huggingface.co/stepfun-ai/GOT-OCR2_0)|通用 OCR 理论的官方代码实现：通过统一的端到端模型实现 OCR-2.0|一个端到端的开源 OCR 模型，号称 OCR 2.0！<br>支持场景文本、文档、乐谱、图表、数学公式等内容识别，拿到了 BLEU 0.972 高分。<br>从给出的演示图来看，一些非常复杂的数学公式都能正确的识别，颇为强大。模型大小仅 1.43GB，感兴趣的可以试试。|![](https://img.shields.io/github/stars/Ucas-HaoranWei/GOT-OCR2.0.svg)|![](https://img.shields.io/github/forks/Ucas-HaoranWei/GOT-OCR2.0.svg)
 
 ### 其他
 
@@ -145,6 +144,7 @@ phind|[Site](https://www.phind.com/)|The AI search engine for developers.|面向
 [SmartGPT](https://github.com/Cormanz/smartgpt)|[Intro](https://mp.weixin.qq.com/s/rlu1we8YPJZcu_13iB9obg)|A program that provides LLMs with the ability to complete complex tasks using plugins.|这个GitHub新项目，能让ChatGPT完成复杂任务，GPT3.5和GPT-4都支持。它通过将问题拆解，并调用外部资源，提高了GPT的工作能力。在它的调教下，GPT-4回答的准确率从68%提高到了85%。这个项目名叫SmartGPT，这个名字很直白地告诉了我们它的作用。无论是直观感受还是量化数据，GPT在它的加持之下回答正确率都有提高。|![](https://img.shields.io/github/stars/Cormanz/smartgpt.svg)|![](https://img.shields.io/github/forks/Cormanz/smartgpt.svg)
 Copilot Hub|[Site](https://app.copilothub.ai/copilots)||ChatGPT提示词生成器，告诉它你的需求，Copilot Hub就能自动生成提示词||
 [privateGPT](https://github.com/imartinez/privateGPT)||Interact privately with your documents using the power of GPT, 100% privately, no data leaks|基于GPT4All-J的私有化部署文档问答平台，无需联网，能100%保证用户的隐私不泄露。提供了一个API，用户可以使用自己的文档进行交互式问答和生成文本。此外，平台支持自定义训练数据和模型参数，以满足个性化需求|![](https://img.shields.io/github/stars/imartinez/privateGPT.svg)|![](https://img.shields.io/github/forks/imartinez/privateGPT.svg)
+[HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)|[Demo](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)|一个轻量级的AI证件照制作算法。|AI生成最美证件照！HivisionIDPhotos：一款智能证件照片处理利器！|![](https://img.shields.io/github/stars/Zeyi-Lin/HivisionIDPhotos.svg)|![](https://img.shields.io/github/forks/Zeyi-Lin/HivisionIDPhotos.svg)
 
 
 ### 一些文章
