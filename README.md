@@ -31,6 +31,7 @@ aigc.cn|[Site](https://www.aigc.cn/)|AIGC工具导航|AIGC工具导航，该站�
 [my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt)|[Site](my-chat-gpt-lake.vercel.app)|This is a OSS standalone ChatGPT client. It is based on ChatGPT. The client works almost just like the original ChatGPT websites but it includes some additional features.||![](https://img.shields.io/github/stars/Loeffeldude/my-chat-gpt.svg)|![](https://img.shields.io/github/forks/Loeffeldude/my-chat-gpt.svg)
 
 ### 扩展
+
 名称|链接|关于|描述|stars|forks
 ---|---|---|---|---|---
 [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google)||Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search.|集成 ChatGPT(非官方) 结果到谷歌搜索的 Chrome 扩展。|![](https://img.shields.io/github/stars/ZohaibAhmed/ChatGPT-Google.svg) |![](https://img.shields.io/github/forks/ZohaibAhmed/ChatGPT-Google.svg)
@@ -119,6 +120,13 @@ Search|[Bloop](https://github.com/BloopAI/bloop)|[Site](https://bloop.ai/)|bloop
 AI Agent|[Site](https://aiagent.app/)|AI Agent is a conversational AI platform that enables businesses to build chatbots for customer support, lead generation, and sales.|AI Agent 是一款平替AutoGPT的工具，无需技术能力，无需API密钥，无需富强。输入你要实现的目标，它自动会帮你去实现目标。||
 Dogpt|[Site](https://www.dogpt.ai/)||AgentGPT无需API的fork版本||
 
+### OCR
+
+名称|链接|关于|描述|stars|forks
+---|---|---|---|---|---
+[GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)|[Download](https://huggingface.co/stepfun-ai/GOT-OCR2_0)|通用 OCR 理论的官方代码实现：通过统一的端到端模型实现 OCR-2.0|一个端到端的开源 OCR 模型，号称 OCR 2.0！<br>支持场景文本、文档、乐谱、图表、数学公式等内容识别，拿到了 BLEU 0.972 高分。<br>从给出的演示图来看，一些非常复杂的数学公式都能正确的识别，颇为强大。模型大小仅 1.43GB，感兴趣的可以试试。
+|![](https://img.shields.io/github/stars/Ucas-HaoranWei/GOT-OCR2.0.svg)|![](https://img.shields.io/github/forks/Ucas-HaoranWei/GOT-OCR2.0.svg)
+
 ### 其他
 
 名称|链接|关于|描述|stars|forks
@@ -154,30 +162,6 @@ Copilot Hub|[Site](https://app.copilothub.ai/copilots)||ChatGPT提示词生成�
 - [Storing OpenAI embeddings in Postgres with pgvector](https://supabase.com/blog/openai-embeddings-postgres-vector)
 
 ### 一些使用技巧
-
-#### 零基础让 ChatGPT 帮你做PPT
-
-1. 把你的需求描述给ChatGPT，让它写一段vba，需求越清晰越好，见图2（需求都说不明白还不如自己做快）
-2. 打开PPT，在自定义功能区启用【开发者工具】，见图3
-3. 在开发者工具里点击 Visual Basic，新建一个模块把代码粘进去，点击运行就搞定，见图4
-
-出现问题的时候模仿甲方口吻反馈即可，但一定要指出具体的错误。
-
-- 常见问题1：运行的时候报错，直接反馈给 AI 改就行，见图5
-- 常见问题2：由于免费版经常掉线，刷新一下页面让AI继续写就行，见图6
-
-<video src="https://g.us.sinaimg.cn/o0/KyvGjYoclx083iZMvXOo010412002txJ0E010.mp4?ssig=0PQkEzfo65&Expires=1678640851&KID=unistore,video"></video>
-![](https://wx4.sinaimg.cn/orj360/68c4467dly1hba6oq7f66j20pa0w017x.jpg)
-![](https://wx3.sinaimg.cn/orj360/68c4467dly1hba6oqbsy8j20tj0nsdma.jpg)
-<video src="https://g.us.sinaimg.cn/o0/epPYiAJWlx083iYny4Gc0104120029Vs0E010.mp4?ssig=qNDPtvXel%2F&Expires=1678640851&KID=unistore,video"></video>
-![](https://wx3.sinaimg.cn/orj360/68c4467dly1hbadjezqqwj21240uwna9.jpg)
-![](https://wx1.sinaimg.cn/orj360/68c4467dly1hba7403vbmj20sr0pw0ya.jpg)
-
-#### 免费的 ChatGPT gpt-3.5-turbo API 来了
-
-https://mp.weixin.qq.com/s/hU4qk9kHmPn9xVGhFI5Hbg
-
-国内的同学可以去百姓网申请ChatGPT的API访问，每个工程师可以有1000元人民币的限额，真是很大的福利啊，感谢王健硕和百姓网！
 
 #### 让 ChatGPT 返回 Mermaid 格式，然后将返回结果到 Mermaid 的编辑器中运行，就能得到图一那样好看的图表
 
@@ -339,9 +323,6 @@ https://chatexcel.com
 
 北大团队做的，和上面相似，只不过上传的是Excel，然后可以通过自然语言下命令，对表格进行任意调整，调用的是OpenAI专为表格处理做的API服务OpenAI Tabulate。
 美中不足的是这还只是一个demo，只支持1MB以内、不超过10列的excel文件，也没有收费选项，局限性很大。
-
-<video src="https://g.us.sinaimg.cn/o0/6Ts7vjOclx083KWb2ZPi010412001mL30E010.mp4?ssig=E%2F7fMqwSq0&Expires=1678640819&KID=unistore,video"></video>
-<video src="https://g.us.sinaimg.cn/o0/yb7x93Yqlx083KWbaLfi010412001sq10E010.mp4?ssig=Zcs3jR33cS&Expires=1678640819&KID=unistore,video"></video>
 
 
 ## Chat XMind
