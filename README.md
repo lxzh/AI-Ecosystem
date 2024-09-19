@@ -132,6 +132,7 @@ Dogpt|[Site](https://www.dogpt.ai/)||AgentGPT无需API的fork版本||
 名称|链接|关于|描述|stars|forks
 ---|---|---|---|---|---
 [facefusion](https://github.com/facefusion/facefusion)|[Demo](https://join.facefusion.io/)|行业领先的面部变形平台|facefusion：开源的 AI 换脸和增强工具！<br>这是一款功能强大的人脸交换和增强工具，支持将图片/视频中的人脸替换成另一个人的脸、改善人脸和背景清晰度等功能，还提供了友好的 Web 界面（WebUI）和低门槛的 CPU 处理选项。这款工具新版本相对旧版增加了很多模型和高清算法，大大提高了图片和视频的换脸效果。同时还增加了三种遮罩功能，解决了脸部有物体遮挡时融合效果差和跳闪的问题。|![](https://img.shields.io/github/stars/facefusion/facefusion.svg)|![](https://img.shields.io/github/forks/facefusion/facefusion.svg)
+[video2x](https://github.com/k4yt3x/video2x)|[Site](https://video2x.org/)|使用 waifu2x、Anime4K、SRMD 和 RealSR 实现的无损视频/GIF/图像放大器，始于 2018 年的 Hack the Valley II。|video2x：一款视频和图像AI无损放大工具！<br>video2x 用的是 Waifu2x、Anime4K 这些厉害的机器学习模型，处理速度快，效果还贼好。我之前试过放大一个老动画片，本来人物边缘都模糊了，放大之后居然清晰了不少，连头发丝儿都能看清楚！<br>该项目集成了多种超分辨率算法（如 Waifu2x、Anime4K、Real-ESRGAN），能够有效提高视频和图像的分辨率，并提供了图形界面（GUI）、Docker 和命令行界面（CLI）的使用方式。支持自己调节参数！ 你可以根据自己的需求调整放大倍数、抗锯齿、去噪等等。|![](https://img.shields.io/github/stars/k4yt3x/video2x.svg)|![](https://img.shields.io/github/forks/k4yt3x/video2x.svg)
 
 ### 其他
 
