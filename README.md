@@ -127,6 +127,12 @@ Dogpt|[Site](https://www.dogpt.ai/)||AgentGPT无需API的fork版本||
 ---|---|---|---|---|---
 [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)|[Download](https://huggingface.co/stepfun-ai/GOT-OCR2_0)|通用 OCR 理论的官方代码实现：通过统一的端到端模型实现 OCR-2.0|一个端到端的开源 OCR 模型，号称 OCR 2.0！<br>支持场景文本、文档、乐谱、图表、数学公式等内容识别，拿到了 BLEU 0.972 高分。<br>从给出的演示图来看，一些非常复杂的数学公式都能正确的识别，颇为强大。模型大小仅 1.43GB，感兴趣的可以试试。|![](https://img.shields.io/github/stars/Ucas-HaoranWei/GOT-OCR2.0.svg)|![](https://img.shields.io/github/forks/Ucas-HaoranWei/GOT-OCR2.0.svg)
 
+### Video
+
+名称|链接|关于|描述|stars|forks
+---|---|---|---|---|---
+[facefusion](https://github.com/facefusion/facefusion)|[Demo](https://join.facefusion.io/)|行业领先的面部变形平台|facefusion：开源的 AI 换脸和增强工具！<br>这是一款功能强大的人脸交换和增强工具，支持将图片/视频中的人脸替换成另一个人的脸、改善人脸和背景清晰度等功能，还提供了友好的 Web 界面（WebUI）和低门槛的 CPU 处理选项。这款工具新版本相对旧版增加了很多模型和高清算法，大大提高了图片和视频的换脸效果。同时还增加了三种遮罩功能，解决了脸部有物体遮挡时融合效果差和跳闪的问题。|![](https://img.shields.io/github/stars/facefusion/facefusion.svg)|![](https://img.shields.io/github/forks/facefusion/facefusion.svg)
+
 ### 其他
 
 名称|链接|关于|描述|stars|forks
@@ -165,11 +171,6 @@ Copilot Hub|[Site](https://app.copilothub.ai/copilots)||ChatGPT提示词生成�
 ### 一些使用技巧
 
 #### 让 ChatGPT 返回 Mermaid 格式，然后将返回结果到 Mermaid 的编辑器中运行，就能得到图一那样好看的图表
-
-![](https://wx4.sinaimg.cn/mw690/66fd066bgy1hbyntt0dojj20t81swagl.jpg)
-![](https://wx3.sinaimg.cn/mw690/66fd066bgy1hbynu5bovnj21a41kitme.jpg)
-![](https://wx2.sinaimg.cn/mw690/66fd066bgy1hbynub4tn4j21bq1187c6.jpg)
-prompt：请将以下数据返回Mermaid格式
 
 Mermaid在线编辑器：[网页链接](https://mermaid.live/edit)
 
