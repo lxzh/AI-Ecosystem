@@ -140,6 +140,7 @@ Dogpt|[Site](https://www.dogpt.ai/)||AgentGPT无需API的fork版本||
 名称|链接|关于|描述|stars|forks
 ---|---|---|---|---|---
 [llamacoder](https://github.com/nutlope/llamacoder)|[Site](https://llamacoder.together.ai/)|Open source Claude Artifacts – built with Llama 3.1 405B|Meta AI与Together AI合作推出基于Llama 3.1 405B的LlamaCoder，开源，可以根据提示生成整个应用程序的开源 Web 应用程序。|![](https://img.shields.io/github/stars/nutlope/llamacoder.svg)|![](https://img.shields.io/github/forks/nutlope/llamacoder.svg)
+[napkins](https://github.com/Nutlope/napkins)|[Site](https://www.napkins.dev/)|napkins.dev – from screenshot to app|线框图转应用程序生成器：Napkins，Napkins.dev 的开源项目<p>基于Llama 3.2 Vision理解草图输入，用Llama 3.1 405B和 Together.ai 生成相应的代码|![](https://img.shields.io/github/stars/Nutlope/napkins.svg)|![](https://img.shields.io/github/forks/Nutlope/napkins.svg)
 
 ### 其他
 
